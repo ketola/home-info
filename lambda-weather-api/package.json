@@ -1,0 +1,14 @@
+{
+  "name": "lambda-weather-api",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "mock-require": "^1.3.0",
+    "nock": "^9.0.2"
+  }
+}
